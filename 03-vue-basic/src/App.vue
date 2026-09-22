@@ -1,7 +1,9 @@
 <script setup>
-import Student from './views/Student.vue'
+
+import Vhtml from "./views/V-html.vue";
+
 </script>
 
 <template>
-  <Student />
+  <Vhtml />
 </template>
